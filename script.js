@@ -86,7 +86,7 @@ const typewriter =
   document.querySelector("#typewriter");
 
 const phrase =
-  "Criando soluções atraves da tecnologia, e transformando ideias em experiencias digitais";
+  "Criando soluções através da tecnologia, e transformando ideias em experiências digitais";
 
 let index = 0;
 
